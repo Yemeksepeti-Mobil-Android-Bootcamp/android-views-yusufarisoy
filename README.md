@@ -1,6 +1,6 @@
 # Android Views
 
-## Screen shots
+## Screenshots
 
 ![on boarding](screenshots/ss_onboarding.png)
 
